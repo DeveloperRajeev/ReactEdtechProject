@@ -1,5 +1,4 @@
 import React from "react";
-//https://github.com/DeveloperRajeev/ReactEdtechProject
 import data from '../data.json';
 import StyleMeetingComp from "./Styledmeeting";
 
